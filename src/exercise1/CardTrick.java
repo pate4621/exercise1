@@ -91,7 +91,9 @@ card.setValue(getRandomValue());
         System.out.println("My career ambitions:");
         System.out.println("-- Be more active on social media");
         System.out.println("-- Have a semester with no violations of academic integrity!");
-	System.out.println();	
+	System.out.println();
+        
+        //commit 2
 System.out.println("My hobbies:");
         System.out.println("-- cooking");
         System.out.println("-- outing");
