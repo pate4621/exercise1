@@ -90,6 +90,7 @@ card.setValue(getRandomValue());
         System.out.println();
         
         //commit 1 
+        //commit1
         System.out.println("My career ambitions:");
         System.out.println("-- Be more active on social media");
         System.out.println("-- Have a semester with no violations of academic integrity!");
