@@ -8,6 +8,8 @@ package exercise1;
  * Date: 30/05/2023
  *  
  */
+
+//I am Done
 import java.util.Random;
 import java.util.Scanner;
 
