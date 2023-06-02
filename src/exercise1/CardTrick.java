@@ -82,7 +82,7 @@ card.setValue(getRandomValue());
      */
     
     private static void printInfo() {
-        //commit on github1
+        // printinfo()
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
